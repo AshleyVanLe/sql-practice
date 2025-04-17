@@ -1,6 +1,6 @@
 # 📄 SQL Practice (Coming Soon)
 
-**Status:** Preparing sample queries ✨ | **Expected first update:** May 2025
+**Status:** Preparing sample queries ✨ | **Expected first update:** June 2025
 
 ---
 
